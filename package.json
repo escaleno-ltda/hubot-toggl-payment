@@ -35,7 +35,7 @@
     "indicadoresdeldia": "0.0.3",
     "parse-ms": "2.1.0",
     "simple-encryptor": "2.0.0",
-    "toggl-api": "1.0.1"
+    "toggl-api": "1.0.2"
   },
   "devDependencies": {
     "@commitlint/cli": "7.6.1",
